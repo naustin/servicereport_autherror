@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1093173986645",
+    "firebase_url": "https://servicereport-5fceb.firebaseio.com",
+    "project_id": "servicereport",
+    "storage_bucket": "servicereport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093173986645:android:9f88af470c6fd364",
+        "android_client_info": {
+          "package_name": "com.congotool.servicereport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093173986645-4682an3ae738mar63eqpifo4h4u0k0b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx3nwGWDGHIbhpa_2LrxGGEqWmbWY0fO4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
